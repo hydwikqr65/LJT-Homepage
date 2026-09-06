@@ -16,3 +16,15 @@ My research focuses on natural language processing and machine learning. I’m e
 Research experience includes internships at MINIMAX (2025–present), Tencent WXG (2024), and Shanghai AI Lab (2023).
 
 Awards include the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University.
+
+## Publications (summary)
+
+First-author works include:
+- SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025)
+- On the Perception Bottleneck of VLMs for Chart Understanding (2025)
+- On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024)
+
+Co-authored works include:
+- In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation (ICML 2024)
+- C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models (NeurIPS 2023)
+- Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023)
